@@ -1,0 +1,14 @@
+PyCitySchools Data Trends Summary:
+
+1) Charter vs. District (Charter performance much greater in math/reading)
+The obvious trend here is that charter schools have a much higher overall passing% rate than district schools, 90% to 53%.
+One related trend I saw was that the smaller size schools (<2000 students) also scored higher, leading me to believe that
+charter schools are smaller. Upon verification of summary 1 vs. summary 2 in Task #9, this proved true. Charter school average 
+size is 1524, whereas district school average size is 3854 students. The trend is clear, but which way is it...smaller schools perform better than larger schools at math/reading (90% to 53% passing rate)
+but is it b/c they are smaller or is it because they are charter schools w/ modified curriculums/teaching methods etc?
+
+2) Per Student Budget (The higher the per student budget, the lower the math/reading performance)
+Seems like schools with less per student spend, <$584 scored better overall on passing rate than schools that spend more on students.
+Judging by the above, district schools tended to be >2x the size of charter schools, yet their spending per spending per student 
+averages >$630 per student whereas charter schools are <=$600 per student...leading to another question, is it that less per
+student spending is actually beneficial, or is it that district schools just spend their money less efficiently? 
